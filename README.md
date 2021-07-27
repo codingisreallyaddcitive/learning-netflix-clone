@@ -1,1 +1,1 @@
-# learnining-netflix-clone
+# learning-netflix-clone
